@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1415798804 source:c:\users\vpperego\documents\contador\contador\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
+1415798795 c:\users\vpperego\documents\contador\contador\funcoes.h
+	<time.h>
+
+1415798776 source:c:\users\vpperego\documents\contador\contador\main.c
+	"funcoes.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+

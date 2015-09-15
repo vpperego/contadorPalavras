@@ -1,0 +1,8 @@
+that	2
+droid	1
+hd	1
+motorola	1
+razr	1
+remember	1
+soak	1
+test	1

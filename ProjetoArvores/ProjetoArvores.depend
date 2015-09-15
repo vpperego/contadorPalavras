@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1415265451 source:/home/gauss/ipferreira/Dropbox/ED/ProjetoArvores/abp.c
+	<stdio.h>
+	<stdlib.h>
+	"abp.h"
+
+1415265535 /home/gauss/ipferreira/Dropbox/ED/ProjetoArvores/abp.h
+
+1415480759 source:c:\users\igor\dropbox\ed\projetoarvores\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abp.h"
+
+1415329300 c:\users\igor\dropbox\ed\projetoarvores\abp.h
+
+1415480721 source:c:\users\igor\dropbox\ed\projetoarvores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abp.h"
+
+1416674143 source:c:\users\igor\dropbox\ed\trabalho final\projetoarvores\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abp.h"
+
+1416674011 c:\users\igor\dropbox\ed\trabalho final\projetoarvores\abp.h
+
+1416675269 source:c:\users\igor\dropbox\ed\trabalho final\projetoarvores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abp.h"
+
